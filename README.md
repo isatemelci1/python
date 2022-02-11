@@ -1,2 +1,1 @@
-# python
-Python Hands-On and Projects
+# Python Hands-On and Projects
